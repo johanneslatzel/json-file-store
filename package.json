@@ -50,7 +50,7 @@
     "devDependencies": {
         "@eslint/js": "^9.24.0",
         "@johannes.latzel/check-line-limits": "^1.0.1",
-        "@types/node": "^26.2.0",
+        "@types/node": "^26.4.0",
         "@typescript-eslint/eslint-plugin": "^8.60.0",
         "@typescript-eslint/parser": "^8.60.0",
         "@vitest/coverage-v8": "^4.1.8",
@@ -58,7 +58,7 @@
         "eslint-config-prettier": "^10.1.2",
         "eslint-plugin-n": "^17.17.0",
         "husky": "^9.1.7",
-        "lint-staged": "^17.3.0",
+        "lint-staged": "^17.4.1",
         "prettier": "^3.5.3",
         "typescript": "^6.0.3",
         "vitest": "^4.1.8"
